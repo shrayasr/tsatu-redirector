@@ -344,6 +344,9 @@ export default {
 	  }
 	  else {
 		const destinationURL = _episodeMap[episodeNumber] ?? "https://seenunseen.in"
+
+		console.log(`Redirecting ${episodeNumber} to ${destinationURL}`)
+
 		return Response.redirect(destinationURL, statusCode);
 	  }
 	},
