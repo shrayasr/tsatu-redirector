@@ -323,6 +323,8 @@ const _episodeMap: Record<string, string> = {
 	"0":"https://seenunseen.in/episodes/2017/1/14/episode-0-preview/"
 };
 
+const SEEN_AND_THE_UNSEEN_BASE_URL = "https://seenunseen.in"
+
 export default {
 	async fetch(request: Request) {
 	  const statusCode = 302;
@@ -334,16 +336,16 @@ export default {
 
 	  if (match === null)
 	  {
-		return Response.redirect("https://seenunseen.in", statusCode);
+		return Response.redirect(SEEN_AND_THE_UNSEEN_BASE_URL, statusCode);
 	  }
 
 	  const episodeNumber = match[1];
 
 	  if (episodeNumber === "") {
-		return Response.redirect("https://seenunseen.in", statusCode);
+		return Response.redirect(SEEN_AND_THE_UNSEEN_BASE_URL, statusCode);
 	  }
 	  else {
-		const destinationURL = _episodeMap[episodeNumber] ?? "https://seenunseen.in"
+		const destinationURL = _episodeMap[episodeNumber] ?? SEEN_AND_THE_UNSEEN_BASE_URL
 
 		console.log(`Redirecting ${episodeNumber} to ${destinationURL}`)
 
