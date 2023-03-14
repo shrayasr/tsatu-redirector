@@ -131,7 +131,7 @@ const _episodeMap: Record<string, string> = {
 	"191":"https://seenunseen.in/episodes/2020/9/20/episode-191-our-cities-after-covid-19/",
 	"190":"https://seenunseen.in/episodes/2020/9/13/episode-190-queeristan/",
 	"189":"https://seenunseen.in/episodes/2020/9/6/episode-189-the-acting-life/",
-	"a":"https://seenunseen.in/episodes/2020/8/30/what-a-long-strange-trip-its-been/",
+	"188":"https://seenunseen.in/episodes/2020/8/30/what-a-long-strange-trip-its-been/",
 	"187":"https://seenunseen.in/episodes/2020/8/23/episode-187-dadabhai-naoroji-and-the-fight-for-india/",
 	"186":"https://seenunseen.in/episodes/2020/8/15/episode-186-what-have-we-done-with-our-independence/",
 	"185":"https://seenunseen.in/episodes/2020/8/9/episode-185-fixing-indian-education/",
