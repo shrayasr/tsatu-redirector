@@ -1,4 +1,6 @@
 const _episodeMap: Record<string, string> = {
+	"332": "https://seenunseen.in/episodes/2023/6/5/episode-332-the-life-and-times-of-uma-chakravarti/",
+	"331": "https://seenunseen.in/episodes/2023/5/29/episode-331-gurwinder-bhogal-examines-human-nature/",
 	"330": "https://seenunseen.in/episodes/2023/5/22/episode-330-eric-weinstein-wont-toe-the-line/",
 	"329": "https://seenunseen.in/episodes/2023/5/16/episode-329-murali-neelakantan-looks-at-the-world/",
 	"328": "https://seenunseen.in/episodes/2023/5/8/episode-328-kiran-ahluwalia-finds-our-aam-zameen/",
