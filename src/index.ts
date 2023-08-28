@@ -1,4 +1,11 @@
 const _episodeMap: Record<string, string> = {
+	"343": "https://seenunseen.in/episodes/2023/8/21/episode-343-we-are-all-amits-from-africa/",
+	"342": "https://seenunseen.in/episodes/2023/8/14/episode-342-vitalik-buterin-fights-the-dragon-tyrant/",
+	"341": "https://seenunseen.in/episodes/2023/8/7/episode-341-the-steady-determination-of-yamini-aiyar/",
+	"340": "https://seenunseen.in/episodes/2023/7/31/episode-340-aakash-singh-rathore-the-ironman-philosopher/",
+	"339": "https://seenunseen.in/episodes/2023/7/24/episode-339-the-poetic-feminism-of-paromita-vohra/",
+	"338": "https://seenunseen.in/episodes/2023/7/17/episode-338-the-nuances-of-intensive-care/",
+	"337": "https://seenunseen.in/episodes/2023/7/10/episode-337-luke-burgis-sees-the-deer-at-his-window/",
 	"336": "https://seenunseen.in/episodes/2023/7/3/episode-336-shruti-rajagopalan-dives-into-delimitation/",
 	"335": "https://seenunseen.in/episodes/2023/6/26/episode-335-a-deep-dive-into-ukraine-vs-russia/",
 	"334": "https://seenunseen.in/episodes/2023/6/19/episode-334-jayaprakash-narayan-wants-to-mend-our-democracy/",
