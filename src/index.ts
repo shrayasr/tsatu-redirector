@@ -1,4 +1,8 @@
 const _episodeMap: Record<string, string> = {
+	"347": "https://seenunseen.in/episodes/2023/9/18/episode-347-indias-massive-pensions-crisis/",
+	"346": "https://seenunseen.in/episodes/2023/9/11/episode-346-the-seema-goswami-files/",
+	"345": "https://seenunseen.in/episodes/2023/9/4/episode-345-economic-learnings-of-india-for-make-benefit-glorious-nation-of-bihar/",
+	"344": "https://seenunseen.in/episodes/2023/8/28/episode-344-manisha-pande-watches-the-news/",
 	"343": "https://seenunseen.in/episodes/2023/8/21/episode-343-we-are-all-amits-from-africa/",
 	"342": "https://seenunseen.in/episodes/2023/8/14/episode-342-vitalik-buterin-fights-the-dragon-tyrant/",
 	"341": "https://seenunseen.in/episodes/2023/8/7/episode-341-the-steady-determination-of-yamini-aiyar/",
