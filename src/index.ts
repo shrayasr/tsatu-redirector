@@ -1,4 +1,5 @@
 const _episodeMap: Record<string, string> = {
+	"364": "https://seenunseen.in/episodes/2024/1/15/episode-364-amitava-kumar-finds-his-kashmiri-rain/",
 	"363": "https://seenunseen.in/episodes/2024/1/8/episode-363-ranjit-hoskote-is-dancing-in-chains/",
 	"362": "https://seenunseen.in/episodes/2024/1/1/episode-362-youre-ugly-and-youre-hairy-and-youre-covered-in-shit-but-youre-mine-and-i-love-you/",
 	"361": "https://seenunseen.in/episodes/2023/12/25/episode-361-pritika-hingorani-wants-to-fix-our-cities/",
