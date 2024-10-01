@@ -1,4 +1,6 @@
 const _episodeMap: Record<string, string> = {
+	"401": "https://seenunseen.in/episodes/2024/9/30/episode-401-finding-love-in-modern-india/",
+	"400": "https://seenunseen.in/episodes/2024/9/23/episode-400-life-lessons-that-are-priceless/",
 	"399": "https://seenunseen.in/episodes/2024/9/16/episode-399-divya-prakash-dubey-ek-jeevani/",
 	"398": "https://seenunseen.in/episodes/2024/9/9/episode-398-eve-fairbanks-examines-a-fractured-society/",
 	"397": "https://seenunseen.in/episodes/2024/9/2/episode-397-larry-white-and-the-first-principles-of-money/",
